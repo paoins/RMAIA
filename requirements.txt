@@ -1,0 +1,5 @@
+schedule
+yfinance
+pandas
+numpy
+requests
